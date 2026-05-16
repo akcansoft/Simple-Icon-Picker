@@ -2,7 +2,8 @@
 ;---------------------------
 ; 14/05/2026
 ; Mesut Akcan
-; github.com/akcansoft
+; github.com/mesutakcan
+; youtube.com/mesutakcan
 ;---------------------
 #Requires AutoHotkey v2.0
 
